@@ -1,0 +1,15 @@
+.birthday-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+    text-align: center;
+}
+img{
+    width: 15vw;
+    height: 30vh;
+}
+.each-birthday-container{
+    margin: 5% 0;
+    padding-bottom: 3%;
+    box-shadow: 2px 2px 3px 1px rgb(0,0,0);
+}
